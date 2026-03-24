@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=std%3A%3Acout+%3C%3C+%22Hello%2C+World!%22+%3C%3C+std%3A%3Aendl%3B;Welcome+to+my+Profile!&center=true&size=21)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=std%3A%3Acout+%3C%3C+%22Hello%2C+World!%22+%3C%3C+std%3A%3Aendl%3B;Ann+Hua&center=true&size=21)](https://git.io/typing-svg)
 
 <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/icon.png" />
 
@@ -15,17 +15,14 @@
 </div>
 </div>
 
-### 🤺 About me
+### About me
 
-- 💼 CS Student / Developer.
-- 🚀 I love programming and continuous learning.
-- ❤️ Passionate about discovering new skills and living a colorful life.
-- 💬 Ask me about anything here! I am happy to help.
-- 📫 How to reach me: **YOUR_EMAIL@gmail.com**.
+- M.S. EE@Penn, B.S. ECE@SHU
+- Upcoming GPU firmware developer@MooreThreads.
+- Passionate about discovering new skills and living a colorful life.
+- Ask me about anything here!
 
-
-
-### 🛠️ Languages and Tools
+### Languages and Tools
 
 <p align="left">
   <a href="https://skillicons.dev">
@@ -38,11 +35,9 @@
 
 <br>
 
-<!-- GitHub 提交贪吃蛇动画 -->
+<!-- GitHub contribution snake -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pasthl/Pasthl/output/dist/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Pasthl/Pasthl/output/dist/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Pasthl/Pasthl/output/dist/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pasthl/Pasthl/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Pasthl/Pasthl/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Pasthl/Pasthl/output/github-contribution-grid-snake.svg" />
 </picture>
-
-
