@@ -18,7 +18,7 @@
 ### About me
 
 - M.S. EE@Penn, B.S. ECE@SHU
-- Upcoming GPU firmware developer@MooreThreads.
+- GPU firmware developer@MooreThreads.
 - Passionate about discovering new skills and living a colorful life.
 - Ask me about anything here!
 
